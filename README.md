@@ -85,12 +85,11 @@ Deepseek flash · 数据不出门 · 用你自己的 key
 ---
 
 ## 怎么拿
+CTF Agent交流群
+<img width="486" height="522" alt="c7b818f98e16a2b33b4f5ffaae33d347" src="https://github.com/user-attachments/assets/a6d41f19-62eb-45c5-8886-e4bc42b280f5" />
 
-![价格](assets/07-price.jpg)
 
-**首发价 ¥249**（原价 ¥299），一次买断，含一年更新。
-
-**限量 20 个，售完即止。**
+**首发价限量 20 个，售完即止。**
 
 加微信 **fengyu3650**，发一句「安装包」。
 

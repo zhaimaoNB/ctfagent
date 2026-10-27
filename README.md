@@ -90,7 +90,7 @@ Deepseek flash · 数据不出门 · 用你自己的 key
 
 加微信 **fengyu3061**，发一句「安装包」。
 
-![Uploading 812edc26999a3d80f6c06b27ae8134d6.jpg…]()
+
 
 
 

@@ -84,15 +84,13 @@ Deepseek flash · 数据不出门 · 用你自己的 key
 
 ---
 
-## 怎么拿
-CTF Agent交流群
-
-<img width="486" height="522" alt="c7b818f98e16a2b33b4f5ffaae33d347" src="https://github.com/user-attachments/assets/a6d41f19-62eb-45c5-8886-e4bc42b280f5" />
-
 
 **首发价限量 20 个，售完即止。**
+## 怎么拿
 
-加微信 **fengyu3650**，发一句「安装包」。
+加微信 **fengyu3061**，发一句「安装包」。
+![Uploading 812edc26999a3d80f6c06b27ae8134d6.jpg…]()
+
 
 官网：http://1.13.191.154  （可看CTF Agent工作台详细截图及视频演示）
 
